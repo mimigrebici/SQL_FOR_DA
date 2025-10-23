@@ -1,4 +1,4 @@
-## [README.md](http://README.md) contents:
+Contents:
 
 - Introduction
 - Background
